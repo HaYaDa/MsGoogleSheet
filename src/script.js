@@ -1,3 +1,5 @@
+// link to googlesheet: https://docs.google.com/spreadsheets/d/1C1-em4w0yHmd2N7__9cCSFzxBEf_8r74hQJBsR6qWnE/edit#gid=0
+
 // DON'T EDIT THOSE LINES
 const dataURLBase = "https://docs.google.com/spreadsheets/d/";
 const dataURLEnd = "/gviz/tq?tqx=out:json&tq&gid=";
